@@ -1,5 +1,6 @@
 # AI-mnist
 This project aims to train an AI to identify images of numbers, the famous image of MNIST numbers.
+
 TOPICS:
   - I first turned all the images into a pixel matrix.
   - Then I used the standardization algorithm on all matrices.
